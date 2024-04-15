@@ -11,6 +11,8 @@ RUN apt-get update && apt-get install -y \
         vim \
         tar \
         xz-utils \
+        doxygen \
+        graphviz \
         clang \
         g++-10
 
